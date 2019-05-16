@@ -51,6 +51,10 @@ Our team had an exciting time working on this project and hope to share our insi
 
 > $ sudo pip install pyclips
 
+> $ python2 -m pip install "django<2"
+
+> $ pip2 install pandas
+
 > $ cd IRS-RS-2019-03-09-IS01PT-GRP-Thor-Petrol_Station_Route_Optimizer/SystemCode/thor
 
 > $ python2 manage.py runserver
