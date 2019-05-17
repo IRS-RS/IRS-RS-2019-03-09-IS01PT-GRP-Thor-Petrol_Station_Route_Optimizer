@@ -1,7 +1,7 @@
 ﻿## SECTION 1 : PROJECT TITLE
 ## Petrol Station Route Optimizer
 
-![Petrol Station Route Optimizer](Miscellaneous/PetrolStationRouteOptimizer.png)
+![Petrol Station Route Optimizer](Miscellaneous/PetrolStationRouteOptimizer2.png)
 
 ---
 ## SECTION 2 : EXECUTIVE SUMMARY / PAPER ABSTRACT
