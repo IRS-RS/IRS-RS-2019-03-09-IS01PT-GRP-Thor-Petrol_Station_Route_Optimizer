@@ -1,6 +1,8 @@
 ﻿## SECTION 1 : PROJECT TITLE
 ## Petrol Station Route Optimizer
 
+![Petrol Station Route Optimizer](Miscellaneous/Petrol Station Route Optimizer.png)
+
 ---
 ## SECTION 2 : EXECUTIVE SUMMARY / PAPER ABSTRACT
 How people live, work and spend their money has changed dramatically over the past decade, especially with the advent of today’s disruptive technology. The new and disruptive technologies have opened new ways to make and spend money – online, picking up a “gig” (freelance engagement) is as easy as making plans for dinner or finding a date. In other words, we are also leaving in an “Appgeneration”, where apps are changing the world, and we are part of the change.  The numerous apps are altering the way that people view and perform work. Often driven by algorithms that align supply with demand, these apps are also paving the road towards an economy in which services are supplied only when needed and reachable to a wider audience. 
