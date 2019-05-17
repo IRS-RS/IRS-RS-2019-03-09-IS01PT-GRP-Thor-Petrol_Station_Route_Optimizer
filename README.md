@@ -1,8 +1,5 @@
-IRS-MR-2019-01-19-IS1PT-GRP-THOR-Petrol Station Route Optimizer
----
-
-## SECTION 1 : PROJECT TITLE
-Petrol Station Route Optimizer
+﻿## SECTION 1 : PROJECT TITLE
+## Petrol Station Route Optimizer
 
 ---
 ## SECTION 2 : EXECUTIVE SUMMARY / PAPER ABSTRACT
