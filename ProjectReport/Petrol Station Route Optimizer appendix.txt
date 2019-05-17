@@ -1,0 +1,30 @@
+From: Rana Bhattacharjee 
+Sent: Friday, 17 May 2019 11:08 AM
+To: Gu Zhan <zhan.gu@nus.edu.sg>; Ian Tan Eng Kiong <e0380954@u.nus.edu>; Khoo Wee Beng <e0384939@u.nus.edu>; Koh Sook Bing <e0385044@u.nus.edu>; Tan Yao Tai Teerapong <e0384248@u.nus.edu>; Yeo Whye Chung Nelson <e0385036@u.nus.edu>
+Subject: Re: Reasoning Systems group project - https://github.com/IRS-RS/IRS-RS-2019-03-09-IS01PT-GRP-Thor-Petrol_Station_Route_Optimizer
+
+Hi Sam,
+
+I will summarize how the GA is run for the program :-
+
+For example, the start point is A, end point is B and X,Y,Z are the intermediate points. The possible petrol staions identified for this user are P1,P2 and P3, so we have to optimise the route comprising A, B, X, Y and Z and include one of the pumps.
+
+Step 1
+We create a temporary point, T with distances 0 to A and B (this takes care of the issue that the solution start has to start with A and end with B)
+
+Step 2
+We run the GA 3 times, with the following sets
+A, B, X, Y, Z, T, P1 (iteration 1)
+A, B, X, Y, Z, T,  P2 (iteration 2)
+A, B, X, Y, Z, T,  P3 (iteration 3)
+
+For each iteration in this step, we keep track of the lengths of the top 3 shortest path options
+
+Step 3
+We choose the shortest path from Step 2, clean the list by removing T and return the answer.
+
+So each time the GA is run, one petrol station is part of the list. 
+
+Thanks
+
+Rana
